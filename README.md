@@ -4,6 +4,8 @@ The abbreviation of PG DBDA is Post Graduate Diploma in Big Data and Analytics. 
 Modules:--
 
 1.[Python Programming and Advanced Analytics](https://github.com/TanushreeBhure/PG-DBDA/tree/Python)
+
 2.[Cloud Computing](https://github.com/TanushreeBhure/PG-DBDA/tree/Cloud-Computing)
+
 3.[Big Data Technologies](https://github.com/TanushreeBhure/PG-DBDA/tree/Big-Data-Technologies)
 
