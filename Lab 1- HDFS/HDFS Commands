@@ -1,0 +1,11 @@
+# Lab: Using HDFS Commands 
+## **About this Lab** 
+### **Objective**: To become familiar with how files are added to and removed from 
+HDFS and how to view files in HDFS. 
+**File locations**:  /root/devph/labs/Lab2.1 
+**Successful outcome**:   You will have added and deleted several files and folders in HDFS. 
+**Before you begin**:   Your HDP 2.3 cluster should be up and running within your VM.   
+**Related lesson**: The Hadoop Distributed File System (HDFS)
+
+## **Lab Steps** 
+1. View the hdfs dfs Command 
