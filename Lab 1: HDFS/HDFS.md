@@ -9,8 +9,8 @@
 To create a new hadoop cluster on Amazon EMR [click](https://github.com/TanushreeBhure/PG-DBDA/blob/Cloud-Computing/LAB%202:%20EMR%20Cluster/EMR.md) here.*  
 
 ## LAB STEPS  
-
-1. Download the labs file into emr and unzip it  
+  
+1.**Download the labs file into emr and unzip it**  
 wget https://dbda-labs.s3.amazonaws.com/labs.zip
 unzip labs.zip  
 
@@ -115,4 +115,4 @@ b. Run the following fsck command on data.txt:
 c. How many blocks are there for this file?   
 Answer: The file should be broken down into two blocks.  
 
-***Result**:You have just completed Lab 1 which focused on the basics of the HDFS and how to perform the following basic commands on the platform.  
+***Result**:You have just completed Lab 1 which focused on the basics of the HDFS and how to perform the following basic commands on the platform.*
